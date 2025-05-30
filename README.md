@@ -96,7 +96,7 @@ We're building MemoryPilot with four uncompromising principles:
 ## 🚧 Getting Started (Preview)
 ```bash
 # Clone repository
-git clone https://github.com/your-org/memorypilot.git
+git clone [https://github.com/Volkov-Labs/gpt-content-manager](https://github.com/Volkov-Labs/gpt-content-manager)
 
 # Install dependencies
 pip install -r requirements.txt
