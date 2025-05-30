@@ -1,6 +1,6 @@
 # MemoryPilot: Your AI's Long-Term Memory Engine
 
-![MemoryPilot Logo](https://via.placeholder.com/150?text=MP)  
+![MemoryPilot Logo](https://github.com/Volkov-Labs/MemoryPilot/blob/main/9338b14d-50ca-41f5-84ae-8c9e5a290fc1.png?raw=true)  
 *«Your thoughts are your castle. We're the keykeeper.»*
 
 ## 🚀 Product Vision
